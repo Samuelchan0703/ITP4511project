@@ -1,4 +1,4 @@
-# ITP4512project
+# ITP4511project
 This is a community healthcare clinic management system built on Jakarta EE / Servlet / JSP / JDBC, specifically designed for clinic appointment scheduling, walk-in queuing, patient notifications, and back-end management. The system is role-based, supporting different workflows for patients, healthcare staff, and administrators, allowing clinics to complete registration, queuing, appointment management, service configuration, and operational reporting analysis on a single platform.
 
 The system is positioned as an "operation and process management platform for small and medium-sized community clinics." It's not just a simple appointment website; it integrates online appointments, walk-in queues, staff processing workflows, admin settings, and statistical reports. Its goal is to improve the problems of chaotic front-desk queuing, fragmented data, and inconsistent notifications, making the entire outpatient process more organized and easier to test and demonstrate.
